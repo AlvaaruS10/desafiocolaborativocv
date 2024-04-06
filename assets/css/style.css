@@ -2,13 +2,13 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color: aliceblue;
+  background-color: rgb(238, 42, 189);
 }
 
 /* Navegación */
 
 .navbar-expand-md {
-  background-color: darkslategrey;
+  background-color: rgb(82, 52, 75);
   
   
 }
@@ -38,10 +38,10 @@ header {
 .titulo {
 
   padding-top: 40px;
-  color: white;
+  color: rgb(80, 158, 49);
   text-align: center;
   text-decoration: double;
-  text-shadow: 2px 5px 3px #000
+  text-shadow: 2px 5px 3px #b17777
 }
 
 .text {
@@ -59,7 +59,7 @@ header {
 .curriculum {
   justify-content: start;
   height: 100%;
-  background-color: aliceblue;
+  background-color: rgb(92, 28, 60);
 
 
 }
@@ -70,7 +70,7 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: rgb(8, 139, 141);
+  background-color: rgb(0, 219, 223);
   padding-top: 25px;
   padding-bottom: 25px;
 
@@ -105,7 +105,7 @@ header {
 }
 
 .fa-html5 {
-  color: rgb(150, 42, 3);
+  color: rgb(175, 117, 96);
 }
 
 .fa-css3-alt {
